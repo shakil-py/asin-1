@@ -5,10 +5,7 @@ body {
 .section-comon {
     display: flex;
 }
-.section{
-    margin: 0;
-    padding: 0;
-}
+
 .span{
     color: rgb(255, 132, 0);
 }
@@ -17,8 +14,8 @@ body {
     margin: 2% 5%;
     align-self: center; 
 }
-.section-1-title h1{
-    font-size: 65px;
+.section-1-title {
+    font-size: 40px;
     border-left:5px solid red ;
     border-radius: 3px;
     padding-left: 15px;
@@ -29,4 +26,26 @@ body {
     width: 95%;
     
     
+}
+/*  my mission*/
+.my-mission {
+    text-align: center;
+    font-size: 50px;
+}
+
+.mission-img {
+    padding-right:60% ;
+}
+.mission-comon{
+    padding: 1.5%;
+    border-radius: 10px;
+}
+#mission1{
+    background: rgb(189, 176, 249);
+}
+#mission2{
+    background: rgb(247, 200, 208);
+}
+#mission3{
+    background: rgb(238, 249, 153);
 }
