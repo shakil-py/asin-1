@@ -1,5 +1,6 @@
 body {
     font-family: 'PT Serif', serif;
+    margin: 0;
 }
 
 .section-comon {
@@ -22,10 +23,20 @@ body {
     
 }
 
-.section-item-comon img {
+.section-comon img {
     width: 95%;
+    height: 85%;
     
     
+}
+
+.explor {
+    text-decoration: none;
+    padding: 5px 20px;
+    background-image: linear-gradient(red, rgb(253, 145, 4));
+    
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
 }
 /*  my mission*/
 .my-mission {
@@ -48,4 +59,21 @@ body {
 }
 #mission3{
     background: rgb(238, 249, 153);
+}
+/*  section 3 */
+.devlop-title {
+    font-size: 30px;
+    align-self: center;
+
+}
+
+#coding {
+    margin: 50px 5%;
+}
+
+.section-3 {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position-y: center;
 }
