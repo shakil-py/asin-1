@@ -1,0 +1,32 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.section-comon {
+    display: flex;
+}
+.section{
+    margin: 0;
+    padding: 0;
+}
+.span{
+    color: rgb(255, 132, 0);
+}
+.section-item-comon {
+    width: 50%;
+    margin: 2% 5%;
+    align-self: center; 
+}
+.section-1-title h1{
+    font-size: 65px;
+    border-left:5px solid red ;
+    border-radius: 3px;
+    padding-left: 15px;
+    
+}
+
+.section-item-comon img {
+    width: 95%;
+    
+    
+}
