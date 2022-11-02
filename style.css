@@ -84,3 +84,9 @@ body {
     background-size: 230px;
     background-position-y: bottom;
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
